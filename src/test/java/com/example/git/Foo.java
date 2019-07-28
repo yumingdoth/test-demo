@@ -15,5 +15,6 @@ public class Foo {
     @Test
     public void barTest() {
         logger.info("第一次提交");
+        logger.info("第二次提交 by yuming");
     }
 }
