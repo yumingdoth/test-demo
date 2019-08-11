@@ -15,6 +15,5 @@ public class Foo {
     @Test
     public void barTest() {
         logger.info("第一次提交");
-        logger.info("没有冲突");
     }
 }
